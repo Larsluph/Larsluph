@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building coo
 ## 🚀 Main Projects
 
 ### 1. VueTorrent
-**Description**: The #1 WebUI for qBittorrent
-**Tech Stack**: Front-end (Vue3)
+**Description**: The #1 WebUI for qBittorrent  
+**Tech Stack**: Front-end (Vue3)  
 **Highlights**:
 - Full-featured compared to the OG WebUI
 - Responsive
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building coo
 - 4.5k+ stars, 500k+ downloads
 
 ### 2. RocketStats
-**Description**: Rocket League BakkesMod plugin for storing and tracking session information
-**Tech Stack**: C++ (Unreal Engine)
+**Description**: Rocket League BakkesMod plugin for storing and tracking session information  
+**Tech Stack**: C++ (Unreal Engine)  
 **Highlights**:
 - Former #1 plugin in its active days (#4 as of 2024)
 - 1.4M+ downloads
