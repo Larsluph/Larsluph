@@ -19,6 +19,7 @@ I'm a passionate developer who enjoys building cool things, experimenting with n
       <li>Responsive</li>
       <li>Dark mode</li>
       <li>5k+ stars, 500k+ downloads</li>
+    </ul>
   </td>
 </table>
 
@@ -35,6 +36,7 @@ I'm a passionate developer who enjoys building cool things, experimenting with n
     <ul>
       <li>Former #1 plugin in its active days (#4 as of 2024)</li>
       <li>1.4M+ downloads</li>
+    </ul>
   </td>
 </table>
 
